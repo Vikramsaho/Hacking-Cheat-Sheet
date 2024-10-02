@@ -427,4 +427,5 @@ https://github.com/ffuf/ffuf
 # A fast web fuzzer written in Go.
 ffuf -H 'User-Agent: Mozilla' -v -t 30 -w mydirfilelist.txt -b 'NAME1=VALUE1; NAME2=VALUE2' -u 'https://example.com/FUZZ'
 
-https://githu
+For all tools Go to this url;-
+https://github.com/riramar/Web-Attack-Cheat-Sheet
