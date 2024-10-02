@@ -6,6 +6,71 @@ Website Hacking Cheat-Sheet
 Web Attack Cheat Sheet
 
 Table of Contents
+Table of Contents
+Discovering
+Targets
+IP Enumeration
+Subdomain Enumeration
+Wayback Machine
+Cache
+Crawling
+Wordlist
+Directory Bruteforcing
+Parameter Bruteforcing
+DNS and HTTP detection
+Acquisitions/Names/Addresses/Contacts/Emails/etc.
+HTML/JavaScript Comments
+Google Dorks
+Content Security Policy (CSP)
+Tiny URLs Services
+GraphQL
+General
+Enumerating
+Fingerprint
+Buckets
+Cloud Enumeration
+Containerization
+Visual Identification
+Scanning
+Static Application Security Testing
+Dependency Confusion
+Send Emails
+Search Vulnerabilities
+Web Scanning
+HTTP Request Smuggling
+Subdomain Takeover
+SQLi (SQL Injection)
+XSS
+Repositories Scanning
+Secret Scanning
+Google Dorks Scanning
+CORS Misconfigurations
+Monitoring
+CVE
+Attacking
+Brute Force
+Exfiltration
+General
+Manual
+Payloads
+Bypass
+Deserialization
+SSRF (Server-Side Request Forgery)
+OAuth
+DNS Rebinding
+SMTP Header Injection
+Web Shell
+Reverse Shell
+SQLi (SQL Injection)
+XSS
+XPath Injection
+LFI (Local File Inclusion)
+SSTI (Server Side Template Injection)
+Information Disclosure
+WebDAV (Web Distributed Authoring and Versioning)
+Generic Tools
+AI
+General
 
 Discovering
 Targets
